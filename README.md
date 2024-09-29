@@ -1,1 +1,2 @@
-# AlumniSpacePractice
+# Alumini-Project
+ICEP Alumini Project
